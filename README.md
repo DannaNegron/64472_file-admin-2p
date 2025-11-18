@@ -1,4 +1,4 @@
-# Práctica 02 – Gestión de estudiantes con archivos (BIN, JSON, CSV)
+# Práctica 02 – Gestión de estudiantes con archivos (BIN, JSON)
 
 ## 1. Descripción general
 
